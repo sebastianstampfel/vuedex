@@ -3,6 +3,10 @@
 A Pokédex as a PWA based on Vue.js, fetching data from [PokéAPI](https://pokeapi.co/).
 Done purely out of boredom and to play around with progressive web-apps using Vue.js.
 
+## Preview
+
+Running version of this project can be found [here](https://sebastians.pages.gitlab.sebastianstampfel.live/pwadex/).
+
 ## Project setup
 ```
 npm install
